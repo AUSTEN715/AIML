@@ -8,6 +8,8 @@ print(marks)
 print(marks[2:])
 print(len(marks)) 
 
+
+# Methods
 marks.append(50)
 marks.insert(4,10) # Pushesh other value
 print(marks)
