@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Trained models
+*.safetensors
+*.pth
+*.pt
+
+# Large datasets
+13.Deep_Learning/3.CNN/data/cifar-10-batches-py/
+13.Deep_Learning/4.RNN/IMDB Dataset.csv
+15.GenAI/Transformer/samsum-train.csv
+
+# Vector databases
+16.RAG/data/vector_store/
+
+# Environment / secrets
+.env
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+.env
